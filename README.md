@@ -32,7 +32,7 @@ The dataset used in this project is sourced from Kaggle and includes SMS message
    jupyter notebook
    ```
 
-3. Navigate to the relevant notebooks (`01_data_preprocessing.ipynb` and `02_spam_filter.ipynb`) and run them sequentially.
+3. Navigate to the relevant notebooks (`01_data_preprocessing.ipynb`) and run them sequentially.
 
 ## Dependencies
 
