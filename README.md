@@ -23,7 +23,7 @@ The dataset used in this project is sourced from Kaggle and includes SMS message
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/sms-spam-detection.git
+   git clone https://github.com/Keerthana82/codsoft-task2-sms-spam-detection.git
    ```
 
 2. Open Jupyter Notebook:
