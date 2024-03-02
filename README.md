@@ -13,8 +13,7 @@ The dataset used in this project is sourced from Kaggle and includes SMS message
 ## Project Structure
 
 - **Notebooks:**
-  - `01_data_preprocessing.ipynb`: Code for data loading, cleaning, and exploration.
-  - `02_spam_filter.ipynb`: Implementation of the Bayesian Spam Filter and classification example.
+  - `01-sms_spam_filter.ipynb`: Implementation of the Bayesian Spam Filter and  Code for data loading, cleaning, and exploration and classification example.
 
 - **Data:**
   - The dataset should be placed in this folder or follow instructions on how to obtain it.
