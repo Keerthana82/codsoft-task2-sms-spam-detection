@@ -8,7 +8,7 @@ This project, addressing SMS spam detection using a Bayesian approach, was devel
 
 The dataset used in this project is sourced from Kaggle and includes SMS messages labeled as spam or ham. Ensure that you have the dataset downloaded or linked correctly before running the code.
 
-**Kaggle Dataset Link:** [SMS Spam Collection Dataset](https://www.kaggle.com/dataset-link)
+**Kaggle Dataset Link:** [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 ## Project Structure
 
